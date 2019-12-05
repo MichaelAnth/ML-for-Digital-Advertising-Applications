@@ -1,2 +1,2 @@
 # ML-for-Digital-Advertising-Applications
-This repositiory contains my submission for assignments in Advanced digital advertising where python scripts are employed to address question in advertising such as the facors impacting ad spend or the demographic factors most predictive of product purchases.
+This repositiory contains my submission for assignments in Advanced digital advertising where python scripts are employed to address question in advertising such as the facors impacting ad spend, the demographic factors most predictive of product purchases, of the regions with the highest populations of a target audience for making market expansion decisions.

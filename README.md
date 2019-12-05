@@ -1,3 +1,3 @@
-# Python_for_Digital_Advertising_Applications
+# Python for Digital Advertising Applications
 This repositiory contains my submission for assignments in advanced digital advertising where python scripts are employed to address 
 question in advertising and marketing. These assignments address topics such as employing linear regression to asses the facors impacting ad spend, using model selection packages to manage large data sets to build parsimonious model for identifying the demographic factors most predictive of product purchases, and working with API's to identify the regions with the highest populations of a target audience for making market expansion decisions.
